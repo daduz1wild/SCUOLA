@@ -19,24 +19,23 @@ Classe Figura: deve implementare l'interface FileCsv.
 
 import java.util.LinkedList;
 
-public class Quadrilatero extends Figura{
-    public Quadrilatero() {
-        this.setNLati(4);
+public class Triangolo extends Figura{
+    public Triangolo() {
+        this.setNLati(3);
         this.valLati = new LinkedList<>();
         for (int k = 0; k < this.getNLati(); k++) {
             this.setValLati(1, k);
         }
     }
-    public Quadrilatero(double l1,double l2,double l3,double l4){
+    public Triangolo(double l1,double l2,double l3){
         this.setNLati(3);
         valLati=new LinkedList<>();
         setValLati(l1,1);
         setValLati(l2,2);
         setValLati(l3,3);
-        setValLati(l4,4);
     }
-    public Quadrilatero(Quadrilatero a){
-        this.setNLati(4);
+    public Triangolo(Triangolo a){
+        this.setNLati(3);
         valLati=new LinkedList<>();
         for (int k = 0; k < this.getNLati(); k++) {
             this.setValLati(a.getValLati(k),k);
@@ -44,6 +43,6 @@ public class Quadrilatero extends Figura{
     }
     @Override
     protected double area(){
-        return (this.getValLati(1) * this.getValLati(2));    }
+        return Math.sqrt((p()/2) * ((p()/2) - this.getValLati(1)) * ((p()/2) - this.getValLati(2)) * ((p()/2) - this.getValLati(3)));
+    }
 }
-

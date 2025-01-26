@@ -12,9 +12,11 @@ l'idea dell'autore intorno all'evoluzione della lingua, è che essa si dovrebbe 
 
 5. Cosa significa l’aggettivo “ragionevole”?
 Verri con l’aggettivo “ragionevole” si riferisce a un approccio pratico e logico verso la lingua, che tenga conto dell’utilità e della semplicità anziché dell’autorità o della tradizione, senza regole imposte dall'alto.
+ragionevole deriva da ragione e idee ragionevoli vuol dire che rispondono alla ragione(sono ragionevoli)
 
 6. Cosa afferma l’autore riguardo alle regole ortografiche e grammaticali? E riguardo alla “purezza” della lingua?
 L’autore critica l’ossessione per la purezza della lingua e le regole troppo rigide, sostenendo che queste ostacolano la comunicazione e il progresso naturale della lingua.
+indica che la lingua è come un organismo vivente che si deve evolvere.
 
 7. A quale pubblico afferma l’autore di volersi rivolgere, anche a nome dei suoi amici del caffè?
 Verri si rivolge al pubblico colto e progressista del suo tempo, rappresentato dagli "amici del caffè", un gruppo di intellettuali illuministi che condividevano idee innovative.
