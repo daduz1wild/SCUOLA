@@ -22,10 +22,15 @@ uomini, e in cui ben presto si vide la schiavitù e la miseria.
 5. La distruzione dell'uguaglianza porta al caos perché, con l'emergere di disuguaglianze e conflitti, le persone iniziano a combattere per la proprietà e il potere, creando 
 una società instabile e conflittuale.
 
-6. Il ricco concepisce un disegno volto a mantenere e giustificare la propria superiorità. Rivolge agli altri un discorso che mira a legittimare la disuguaglianza, presentando 
+6. Il ricco(essendo che ha come nemici il popolo capisce che l'unico modo per controllare gli altri è prendere autorita, usando come scusa per ingannare i poveri/popolo il voler aiutare i piu deboli) concepisce un disegno volto a mantenere e giustificare la propria superiorità. Rivolge agli altri un discorso che mira a legittimare la disuguaglianza, presentando 
 la propria condizione come un risultato di merito o di natura, cercando di convincere gli altri che l’ordine sociale è giusto e necessario.
 
 7. Rousseau ha una visione critica della nascita della società e delle leggi. Egli crede che la società e le leggi siano nate per proteggere i privilegi di pochi a
  scapito della maggioranza, piuttosto che per promuovere il bene comune. La società civile, secondo lui, ha corrotto l'essenza umana.
+ risposta prof nascita della sottomissione origine della societa della leggi
+
+
+domanda verifica quale è l'origine dello stato delle leggi
+come avviene la rottura dell'uguaglianza e la nasci
 
 

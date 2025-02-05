@@ -1,22 +1,28 @@
 import java.util.StringTokenizer;
 
-public class PacchettoAzionario implements FileCSV {
+public class PacchettoAzionario implements FileCSV, Copyable<PacchettoAzionario> {
     private String nome;
     private double valore;
-    public PacchettoAzionario() {
+    private String data;
+    public PacchettoAzionario(){
+        setNome("null");
+        setValore(0);
+        setData("null");
     }
-    public PacchettoAzionario(String nome, double valore) {
-        this.nome = nome;
-        this.valore = valore;
+    public PacchettoAzionario(String nome, double valore,String data) {
+        setNome(nome);
+        setValore(valore);
+        setData(data);
     }
     public String getNome() {
         return nome;
     }
     public void setNome(String nome) {
-        if(!nome.isEmpty() && nome!=null)
-            this.nome = nome;
-        else
-            throw new IllegalArgumentException("errore");
+        if(nome!=null)
+            if(!nome.isEmpty())
+                this.nome = nome;
+            else
+                throw new IllegalArgumentException("errore");
     }
 
     public double getValore() {
@@ -29,6 +35,21 @@ public class PacchettoAzionario implements FileCSV {
         else
             throw new IllegalArgumentException("valore errato");
     }
+
+    public String getData() {
+        return data;
+    }
+
+    public void setData(String data) {
+        if(data!=null)
+            if(!data.isEmpty())
+                this.data = data;
+            else
+                throw new IllegalArgumentException("stringa vuota");
+        else
+            throw new NullPointerException("el non esistente");
+    }
+
     @Override
     public void fromCSV(String s) {
         if (s != null) {
@@ -48,5 +69,9 @@ public class PacchettoAzionario implements FileCSV {
     @Override
     public String toCSV() {
         return nome + "," + valore+ ";";
+    }
+    @Override
+    public PacchettoAzionario copy(){
+        return new PacchettoAzionario(getNome(), getValore(), getData());
     }
 }

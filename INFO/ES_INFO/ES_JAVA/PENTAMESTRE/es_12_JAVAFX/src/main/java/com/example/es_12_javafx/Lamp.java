@@ -33,7 +33,6 @@ public class Lamp {
             throw new IllegalStateException("la lampadina è già accesa");
         else {
             stato = true;
-            setRGB(252,255,202);
         }
     }
     public void spegnLamp(){
@@ -66,4 +65,19 @@ public class Lamp {
             throw new IllegalStateException("valore non permesso");
     }
 
+    public int getR() {
+        return r;
+    }
+
+    public int getG() {
+        return g;
+    }
+
+    public int getB() {
+        return b;
+    }
+
+    public int getLum() {
+        return lum;
+    }
 }

@@ -2,9 +2,7 @@ Jean JAque Rousseau vede la scoietà umana in regresso rispetto a una condizione
 La sua proposta è quella di un nuovo contratto sociale per ristabilire l'uguaglianza.
 la proposta di rousseau è uno stato democtratico  e repubbblicano in cui si esprime direttamente senz aintermiedari la sovranità popolare.
 il governo secondo rosseuau deve accettare la volontà e il pensiero generale, questo sistema ha un probelma perchè chi non è d'accordo con questa cosa fa? chi è che controlla 
-la volontà generale?
-
-
+la volontà generale    
 TEORIE ECONOMICHE
 teorie che riguardano l'economia ad eesempio su come mai alcuni stati sono ricchi o poveri, tutto dipende da dei meccanismi,In francia si sviluppa la fisiocrazia che si schiera controil mercantilismo(lo stato deve premiare il mercato e avvantaggarlo, portando svantaggio all'agricoltura)
 quindi mercantilisti cercavano il vantaggio economico e cercano vantaggi dagli stati.

@@ -6,10 +6,28 @@ implementi interfaccia FileCsv.
 import java.io.*;
 import java.util.LinkedList;
 
-public class Pila<E> {
-    private LinkedList<E> pila;
+public class Pila<E extends FileCSV & Copyable<E>>{
+    private final LinkedList<E> pila;
+    private String nome;
     public Pila(){
         pila=new LinkedList<>();
+        setNome("null");
+    }
+    public Pila(String nome){
+        pila = new LinkedList<>();
+        setNome(nome);
+    }
+    public String getNome() {
+        return nome;
+    }
+    public void setNome(String nome) {
+        if(nome != null)
+            if(!nome.isEmpty())
+                this.nome = nome;
+            else
+                throw new IllegalArgumentException("Stringa vuota");
+        else
+            throw new NullPointerException("el non esistente");
     }
     public int size(){
         return this.pila.size();
@@ -29,14 +47,14 @@ public class Pila<E> {
         else
             throw new IllegalArgumentException("elemeno inesistente");
     }
-    public void imp(){
+    public void imp(E aus){
         try {
             BufferedReader fin = new BufferedReader(new FileReader("file.csv"));
             String s = fin.readLine();
             while (s != null) {
-                PacchettoAzionario az = new PacchettoAzionario();
-                az.FromCSV(s);
-                pila.add(az);
+                E obj = aus.copy();
+                obj.fromCSV(s);
+                push(obj);
                 s = fin.readLine();
             }
             fin.close();
@@ -47,7 +65,7 @@ public class Pila<E> {
     public void esp(){
         if(pila.isEmpty()) {
             try {
-                PrintWriter fin = new PrintWriter(new FileWriter(), true);
+                PrintWriter fin = new PrintWriter(new FileWriter("file.csv"), true);
                 for (E el : pila)
                     fin.printf(el.toCSV());
                 fin.close();
