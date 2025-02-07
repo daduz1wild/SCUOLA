@@ -16,7 +16,6 @@ public class MyList<E> {
     public Nodo<E> getFirstNode() {
         return first;
     }
-
     public void setFirst(Nodo<E> first) {
         this.first = first;
     }
@@ -144,6 +143,46 @@ public class MyList<E> {
                 prec.setNext(null);
             }
             return last.getDati();
+        } else {
+            throw new IllegalStateException("Lista vuota");
+        }
+    }
+
+    public E get(int index) {
+        if (getFirstNode() != null) {
+            Nodo<E> nod = getFirstNode();
+            int n=0;
+            while (nod!=null && n!=index ) {
+                nod = nod.getNext();
+                n++;
+            }
+            if(nod==null)
+                throw new IndexOutOfBoundsException("Indice non valido: " + index);
+            else
+                return nod.getDati();
+        } else {
+            throw new IllegalStateException("Lista vuota");
+        }
+    }
+
+    public E remove(int index) {
+        if (getFirstNode() != null) {
+            Nodo<E> prec = null;
+            Nodo<E> nod = getFirstNode();
+            int n=0;
+            while (nod!= null && n!=index ) {
+                prec = nod;
+                nod = nod.getNext();
+                n++;
+            }
+            if(nod==null)
+                throw new IndexOutOfBoundsException("Indice non valido: " + index);
+            if (prec == null) {
+                setFirst(nod.getNext());
+            } else {
+                prec.setNext(nod.getNext());
+            }
+            return nod.getDati();
         } else {
             throw new IllegalStateException("Lista vuota");
         }

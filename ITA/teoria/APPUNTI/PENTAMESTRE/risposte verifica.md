@@ -104,7 +104,8 @@ Kant definisce l’Illuminismo come:
         
     - **Mano invisibile**: L’egoismo individuale genera benessere collettivo tramite il mercato.
         
-    - Valorizza industria e commercio, non solo agricoltura.
+    - Valorizza industria e commercio, non solo agricoltura
+    - 3 fette profitto,vendite e salario.
         
 - **Fisiocratici**:
     
