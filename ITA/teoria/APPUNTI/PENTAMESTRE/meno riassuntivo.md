@@ -22,7 +22,26 @@ Ecco un testo di studio dettagliato e completo, organizzato per autori e concett
 
 **Citazione fondamentale**:  
 > *"Sapere aude! Abbi il coraggio di servirti della tua propria intelligenza"*.  
+> 
+L'idea che la libertà non consista nel fare semplicemente ciò che si vuole, ma nel volere ciò che si deve, è un concetto centrale nella **filosofia morale di Kant**.
 
+### **Kant e la libertà morale**
+
+Secondo **Immanuel Kant**, la vera libertà non è la possibilità di fare tutto ciò che si desidera (una visione che sarebbe legata all'istinto o agli impulsi), ma la capacità di **seguire autonomamente la legge morale che la ragione riconosce come giusta**.
+
+- Un individuo **non è libero** se agisce solo secondo i suoi desideri e impulsi, perché in quel caso è "schiavo" delle sue inclinazioni.
+- Un individuo **è veramente libero** quando si autodetermina secondo la **legge morale universale**, cioè l'**imperativo categorico**: "Agisci solo secondo quella massima che tu possa volere diventi una legge universale".
+
+Quindi, la libertà non è semplicemente **fare ciò che si vuole**, ma **volere ciò che si deve fare** secondo la ragione.
+
+
+
+Kant dice che la libertà non è semplicemente **fare quello che ci pare**, ma **scegliere di fare ciò che è giusto**, seguendo la ragione.
+
+- **Non è veramente libero** chi segue solo i propri desideri e impulsi, perché in realtà è controllato da essi (come un bambino che vuole solo mangiare dolci senza pensare alle conseguenze).
+- **È veramente libero** chi sceglie consapevolmente di seguire principi morali validi per tutti, anche quando è difficile.
+
+In pratica, la libertà non è **fare quello che si vuole**, ma **volere quello che è giusto fare**.
 ---
 
 ### **II. Jean-Jacques Rousseau: *Discorso sull’origine della disuguaglianza***  

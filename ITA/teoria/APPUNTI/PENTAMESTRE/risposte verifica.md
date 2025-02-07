@@ -20,7 +20,13 @@ Kant definisce l’Illuminismo come:
     
 - **Uso privato**: Obbligo di obbedienza in ruoli specifici (es. un soldato deve seguire gli ordini). **Può essere limitato** per garantire l’ordine sociale.
     
+- **Uso pubblico** = libertà di pensiero e critica pubblica per il bene comune.
+- **Uso privato** = obbedienza alle regole quando si ricopre un ruolo specifico.
 
+Il tuo professore ha fatto un esempio corretto, ma va chiarito meglio:
+
+- **Uso pubblico della ragione** → Protestare legalmente contro le tasse e proporre riforme.
+- **Uso privato della ragione** → Pagare le tasse perché è un dovere civile, anche se si è in disaccordo.
 ---
 
 #### **2. Verri e la critica all’Accademia della Crusca**
