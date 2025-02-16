@@ -25,23 +25,7 @@ Ecco un testo di studio dettagliato e completo, organizzato per autori e concett
 > 
 L'idea che la libertà non consista nel fare semplicemente ciò che si vuole, ma nel volere ciò che si deve, è un concetto centrale nella **filosofia morale di Kant**.
 
-### **Kant e la libertà morale**
 
-Secondo **Immanuel Kant**, la vera libertà non è la possibilità di fare tutto ciò che si desidera (una visione che sarebbe legata all'istinto o agli impulsi), ma la capacità di **seguire autonomamente la legge morale che la ragione riconosce come giusta**.
-
-- Un individuo **non è libero** se agisce solo secondo i suoi desideri e impulsi, perché in quel caso è "schiavo" delle sue inclinazioni.
-- Un individuo **è veramente libero** quando si autodetermina secondo la **legge morale universale**, cioè l'**imperativo categorico**: "Agisci solo secondo quella massima che tu possa volere diventi una legge universale".
-
-Quindi, la libertà non è semplicemente **fare ciò che si vuole**, ma **volere ciò che si deve fare** secondo la ragione.
-
-
-
-Kant dice che la libertà non è semplicemente **fare quello che ci pare**, ma **scegliere di fare ciò che è giusto**, seguendo la ragione.
-
-- **Non è veramente libero** chi segue solo i propri desideri e impulsi, perché in realtà è controllato da essi (come un bambino che vuole solo mangiare dolci senza pensare alle conseguenze).
-- **È veramente libero** chi sceglie consapevolmente di seguire principi morali validi per tutti, anche quando è difficile.
-
-In pratica, la libertà non è **fare quello che si vuole**, ma **volere quello che è giusto fare**.
 ---
 
 ### **II. Jean-Jacques Rousseau: *Discorso sull’origine della disuguaglianza***  
@@ -123,7 +107,8 @@ In pratica, la libertà non è **fare quello che si vuole**, ma **volere quello 
    - Le parole sono strumenti per esprimere idee, non fini a sé stesse:  
      > *"Le parole servano alle idee, non le idee alle parole"*.  
 
-14. **Proposta di riforma**:  
+69
+1. **Proposta di riforma**:  
    - Adottare un italiano comprensibile da *"Reggio di Calabria sino alle Alpi"*, arricchito da prestiti stranieri e neologismi.  
 
 **Conclusione**:  
@@ -135,15 +120,15 @@ In pratica, la libertà non è **fare quello che si vuole**, ma **volere quello 
 **Contesto**: Il teatro settecentesco è dominato dalla **Commedia dell’Arte** (maschere, improvvisazione, lazzi volgari).  
 
 #### **Innovazioni di Goldoni**:  
-15. **Abolizione delle maschere**:  
+2. **Abolizione delle maschere**:  
    - Trasforma tipi fissi (Arlecchino, Pantalone) in **personaggi realistici** con psicologia complessa (es. Mirandolina ne *La Locandiera*).  
 
-16. **Testi scritti e realismo**:  
+3. **Testi scritti e realismo**:  
    - Introduce copioni completi, sostituendo l’improvvisazione:  
      > *"Il vero padrone del gusto è il pubblico"*.  
    - Ambienta le commedie nella borghesia veneziana, con dialoghi naturali e critica sociale.  
 
-17. **Scopo educativo**:  
+4. **Scopo educativo**:  
    - Il teatro deve *"correggere i vizi"* e *"divertire istruendo"*.  
 
 **Resistenze**:  
@@ -191,21 +176,21 @@ In pratica, la libertà non è **fare quello che si vuole**, ma **volere quello 
 
 ### **IX. Errori da Correggere nei File Originali**    
 
-19. **Concetti**:  
+5. **Concetti**:  
    - **"Mano invisibile"** in Smith non è egoismo puro, ma un meccanismo di autoregolazione del mercato.  
    - **"Volontà generale"** in Rousseau non è la somma delle volontà individuali, ma l’interesse comune.  
 
 ---
 
 ### **X. Consigli per lo Studio e la Verifica**  
-20. **Utilizza citazioni**: Es. *"Sapere aude!"* (Kant) o *"Questo è mio"* (Rousseau) per sostenere le tue risposte.  
-21. **Crea schemi**:  
+6. **Utilizza citazioni**: Es. *"Sapere aude!"* (Kant) o *"Questo è mio"* (Rousseau) per sostenere le tue risposte.  
+7. **Crea schemi**:  
    - Mappa concettuale sulla separazione dei poteri (Montesquieu).  
    - Tabella comparativa tra Illuminismo francese e italiano.  
-22. **Esercizi pratici**:  
+8. **Esercizi pratici**:  
    - Spiega come Goldoni trasforma le maschere in personaggi.  
    - Analizza un brano di Verri per individuarne il tono ironico.  
-23. **Approfondisci il contesto**:  
+9. **Approfondisci il contesto**:  
    - Legami tra Illuminismo e Rivoluzione Francese.  
    - Influenza di Goldoni sul teatro moderno.  
 

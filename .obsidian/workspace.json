@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TELECOMUNICAZIONI/decibel.md",
+                "file": "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO/L’Ottentoto e il Parigino di Giovanni Berchet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "decibel"
-            }
-          },
-          {
-            "id": "80815f0ab54deb14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITA/teoria/APPUNTI/PENTAMESTRE/riassunto 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "riassunto 2"
+              "title": "L’Ottentoto e il Parigino di Giovanni Berchet"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "riassunto di tutto per studiare la prima verifica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,47 +177,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80815f0ab54deb14",
+  "active": "6feeb2011d73afbb",
   "lastOpenFiles": [
+    "TELECOMUNICAZIONI/decibel.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO/L’Ottentoto e il Parigino di Giovanni Berchet.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/Nuova cartella",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/RIASSUNTO SLIDE.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/riassunto di tutto per studiare la prima verifica.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/risposte verifica.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/appunti romanticismo e altro.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/riassunto 2.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/meno riassuntivo.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/LEZ_17.01.2025.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/Immagine WhatsApp 2025-02-05 ore 16.10.49_b61c13ef.jpg",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/goldoni.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_Verri_vocabolario_crusca.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_testo_rousseau.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_testo_A.SMITH_divisione_del_lavoro.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_goldoni.jpg",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_C.Goldoni_mondo.e.teatro.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/arg_prima.verifica.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/appunti romanticismo e altro.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/9. LÔÇÖILLUMINISMO 2023.pdf",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO",
+    "SISTEMI/SISTEMI TEORIA/classi indirizzi ip.md",
+    "INGLESE/COMPITI/compiti_27.01.2025.md",
+    "INGLESE/COMPITI/domande_reading_23.01.2025.md",
+    "INGLESE/COMPITI/esercizi pag. 254 255.md",
+    "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_28.01.2025/nonno.jpg",
+    "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_per_18.02.2025/index.html",
+    "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_per_18.02.2025",
+    "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/Nuova cartella",
+    "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_28.01.2025/mare.jpg",
+    "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_28.01.2025/gioconda.jpg",
     "ITA/teoria/APPUNTI/PENTAMESTRE/RIASSUNTO SLIDE.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/domande_goldoni.jpg",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/domande_C.Goldoni_mondo.e.teatro.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/arg_prima.verifica.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/9. LÔÇÖILLUMINISMO 2023.pdf",
     "ITA/teoria/APPUNTI/PENTAMESTRE/meno riassuntivo.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/riassunto 2.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/LEZ_17.01.2025.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/Immagine WhatsApp 2025-02-05 ore 16.10.49_b61c13ef.jpg",
     "ITA/teoria/APPUNTI/PENTAMESTRE/goldoni.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/domande_Verri_vocabolario_crusca.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/domande_testo_rousseau.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/domande_testo_A.SMITH_divisione_del_lavoro.md",
-    "INFO/TEORIA_INFO/TEORIA_JAVA/cose da sapere per l'interrogazione.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/risposte verifica.md",
-    "INGLESE/COMPITI/pag 113 es 6 pag 116 1-2-5.md",
-    "SISTEMI/SISTEMI TEORIA/classi indirizzi ip.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/riassunto di tutto per studiare la prima verifica.md",
-    "ITA/teoria/APPUNTI/TRIMESTRE/interrogazione_italiano.md",
-    "ITA/teoria/interrogazione_italiano.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/domande_goldoni.jpg",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/9. LÔÇÖILLUMINISMO 2023.pdf",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/Immagine WhatsApp 2025-02-05 ore 16.10.49_b61c13ef.jpg",
     "ITA/teoria/SLIDE/9. LÔÇÖILLUMINISMO 2023.pdf",
     "ITA/teoria/9. LÔÇÖILLUMINISMO 2023.pdf",
-    "SISTEMI/SISTEMI TEORIA/LEZ_10.01.2025.md",
-    "SISTEMI/SISTEMI TEORIA/LEZ_06.12.2024.md",
-    "SISTEMI/SISTEMI TEORIA/27.01.2025.md",
-    "ITA/teoria/8. DAL BAROCCO ALL’ILLUMINISMO 2023.pdf",
-    "SISTEMI/SISTEMI TEORIA/Linguaggio HTML - Form.pdf",
-    "README.md",
-    "Untitled.md",
     "INGLESE/Screenshot 2025-01-27 105522.png",
     "INGLESE/Screenshot 2025-01-27 105014.png",
-    "TELECOMUNICAZIONI/decibel.md",
-    "TELECOMUNICAZIONI/formato prova.pdf",
-    "TELECOMUNICAZIONI/isteresi.pdf",
-    "TELECOMUNICAZIONI/amplificatori_operazionali.pdf",
-    "TELECOMUNICAZIONI/transistor_2.pdf",
-    "TELECOMUNICAZIONI/transistor_1.pdf",
-    "INGLESE/COMPITI/compiti_27.01.2025.md",
-    "TELECOMUNICAZIONI/Isteresi.md",
     "TPS/TPS_LAB/Immagine 2025-01-15 103726.png"
   ]
 }

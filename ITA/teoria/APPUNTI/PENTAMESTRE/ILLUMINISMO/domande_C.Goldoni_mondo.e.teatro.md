@@ -43,3 +43,5 @@ far divertire il pubblico ed avere anche uno scopo educativo.
 8.Che tipo di linguaggio si deve usare, secondo lui?
 Goldoni sostiene che il linguaggio del teatro deve essere chiaro, naturale e 
 adatto al carattere dei personaggi, senza fare giri di parole grande, e senza usare un lessico complesso in modo da riflettere fedelmente la realtà e rendere i dialoghi credibili.
+
+esecutivo delle genti(coloro che fanno le guerre) e delle leggi civili(che sarebbe l'attuale potere giudiziario) e legislativo
