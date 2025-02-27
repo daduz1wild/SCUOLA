@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFO/TEORIA_INFO/TEORIA_JAVA/alberi_2.md",
+                "file": "INGLESE/COMPITI/es 5 pag 215.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alberi_2"
+              "title": "es 5 pag 215"
             }
           }
         ]
@@ -165,27 +165,33 @@
   },
   "active": "675a0b97dc7e8dbe",
   "lastOpenFiles": [
-    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/es_26.02.2025/src/FileCsv.java",
-    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/es_26.02.2025/src/ABR.java",
-    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/es_26.02.2025/es_26.02.2025.iml",
-    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/es_26.02.2025/src/Main.java",
-    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/es_26.02.2025/src",
-    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/es_26.02.2025",
+    "INGLESE/COMPITI/es 6 pag 215.md",
+    "INGLESE/COMPITI/es 5 pag 215.md",
+    "TPS/TPS_LAB/Processi_concorrenti/Thread.md",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/pizza_thread/src/Cliente.java",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/pizza_thread/src/Pizza.java",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/pizza_thread/src/Pizzaiolo.java",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/pizza_thread/src/Main.java",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/pizza_thread/src",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/pizza_thread",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/thread/thread.iml",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/thread/src/Printer.java",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/thread/src/Foglio.java",
+    "INFO/ES_INFO/ES_JAVA/PENTAMESTRE/thread/src/Main.java",
+    "TPS/TPS_LAB/Immagine 2025-01-15 103726.png",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ARGOMENTO PER INTERROGAZIONE/UGO FOSCOLO.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO/LA POETICA ROMANTICA.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO/Poesia classica e romantica_ di Giovanni Berchet.md",
+    "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO/utilita delle traduzioni madame de stael.md",
+    "STORIA/APPUNTI/rivoluzione_francese.md",
     "INFO/TEORIA_INFO/TEORIA_JAVA/alberi_2.md",
-    "INFO/TEORIA_INFO/TEORIA_JAVA/Untitled",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO/L’Ottentoto e il Parigino di Giovanni Berchet.md",
     "STORIA/APPUNTI/appunti verifica 22.02.2025.md",
-    "STORIA/APPUNTI/rivoluzione_francese.md",
     "INFO/TEORIA_INFO/TEORIA_JAVA/alberi.md",
     "TPS/TPS_LAB/Processi_concorrenti/elenco esercizi.md",
     "TPS/TPS_LAB/Processi_concorrenti/processi_concorrenti.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO/Poesia classica e romantica_ di Giovanni Berchet.md",
     "TPS/TPS_LAB/Processi_concorrenti/teoria per studiare.md",
-    "TPS/TPS_LAB/Processi_concorrenti",
     "TELECOMUNICAZIONI/decibel.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/ROMANTICISMO",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/Nuova cartella",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/RIASSUNTO SLIDE.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/riassunto di tutto per studiare la prima verifica.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/risposte verifica.md",
@@ -197,19 +203,13 @@
     "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/goldoni.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_Verri_vocabolario_crusca.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_testo_rousseau.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_testo_A.SMITH_divisione_del_lavoro.md",
     "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_goldoni.jpg",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/domande_C.Goldoni_mondo.e.teatro.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/arg_prima.verifica.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/appunti romanticismo e altro.md",
-    "ITA/teoria/APPUNTI/PENTAMESTRE/ILLUMINISMO/9. LÔÇÖILLUMINISMO 2023.pdf",
     "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_28.01.2025/nonno.jpg",
     "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_28.01.2025/mare.jpg",
     "SISTEMI/SISTEMI_PRATICA/JS/ESERCIZI_JS/es_28.01.2025/gioconda.jpg",
     "ITA/teoria/APPUNTI/PENTAMESTRE/domande_goldoni.jpg",
     "ITA/teoria/APPUNTI/PENTAMESTRE/Immagine WhatsApp 2025-02-05 ore 16.10.49_b61c13ef.jpg",
     "INGLESE/Screenshot 2025-01-27 105522.png",
-    "INGLESE/Screenshot 2025-01-27 105014.png",
-    "TPS/TPS_LAB/Immagine 2025-01-15 103726.png"
+    "INGLESE/Screenshot 2025-01-27 105014.png"
   ]
 }

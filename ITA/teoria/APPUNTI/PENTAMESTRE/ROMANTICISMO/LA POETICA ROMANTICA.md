@@ -31,5 +31,22 @@ a partire dagli anni venti si delinea il romanzo realistico(Stendhal, Balzac)che
 
 
 
-il romanticismo italoiano
+il romanticismo italiano
 la formazione del romanticismo italiano è stimolata dalla pubblicazione dell'articolo sulla mnanier
+
+
+# IL ROMANZO STORICO E REALISTICO
+in eta romanticca si afferma il romanzoi storico:
+-rappresntazione seria della vita quotidiana di personagho di mediocri condizioni sociali
+-inquadrati in un particolare ambiente 
+
+
+il poeta non deve raccontare cose fantasiose ma cose reali, il mondo in cui ci si distingue dalla realtà è il modo di come lo si racconta
+
+la storia ci dice quello che è successo, ma non le emozioni che provavano le persone di quel periodo storico o il punto di vista delle persone
+
+il compito del poeta è raccontare della storia cio che non è stato raccontato, svelando il segreto dell'anima.
+
+il poeta non puo modificare la storia a suo piacimento, ma puo inventare dei personaggi o delle circostanze che sono integrati in quel periodo storico e che sarebbero potuti realmente vivere in quel periodo, perfettamente calato per quel periodo, personaggi che non contrastano il periodo storico/verita storica.
+
+ad es. nei promessi sposi fatti storici, sono il controllo degli spagnoli, la peste, poi c'è la parte inventata che sono renzo e lucia che sono perfettamente calati per quel periodo storico.

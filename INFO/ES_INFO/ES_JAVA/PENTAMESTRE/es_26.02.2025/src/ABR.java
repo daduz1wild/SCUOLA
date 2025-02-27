@@ -34,15 +34,15 @@ public class ABR<T extends FileCsv & Comparable> {
     public void esporta(String file){
         boolean open=true;
         if(file==null || file.isEmpty())
-            throw new illegalStateExcepytion("il nome del file è errato");
-        else
-            try{
-                PrintWriter fin=new PrintWriter(new FileWriter(file));
-            }catch(IOException e){
-                open=false;
+            throw new IllegalStateException("il nome del file è errato");
+        else {
+            try {
+                PrintWriter fin = new PrintWriter(new FileWriter(file));
+            } catch (IOException e) {
+                open = false;
             }
-            T
-            String rigafin.readLine();
 
+
+        }
     }
 }
