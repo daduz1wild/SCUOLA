@@ -74,6 +74,11 @@ metodo setDemon(true o false) imposta thread a demon mode
 join(); riunisce i thread quando terminano e fa attendere il padre ai figli.  
 t1.join();  
 t2.join();
+Il metodo `join()` in Java, quando usato con i **thread**, serve a **far attendere il completamento di un thread prima che un altro continui l'esecuzione**.
+`join()` fa sì che il thread "padre" aspetti che i suoi "figli" abbiano finito il loro lavoro prima di andare avanti.
+### In parole semplici:
+
+Se hai un thread `t1` e chiami `t1.join()` nel thread principale (o in un altro thread), **il thread chiamante si blocca finché `t1` non ha finito di eseguire**.
 
 lock
 
@@ -81,3 +86,37 @@ quando un thread accede a una risorsa, imposta un flag lock che fa capire 
 agli altri thread che quella risorsa è inaccessibile fino a quando non termina la sua esecuzione
 
 Thread.currentThread().getName();
+
+come posso far sospenderer un thread che ha una risorsa assegnata?
+abbiamo p1 e p2 sincronizzati, p1 è il primo ad accedere alla risorsa quindi lo locka in modo che nel mentre che è assegnata a lui nessun altro ci puo accedere.
+se voglio sospendere il thread attivo chiamo la wait che puo essere chiamata solo se i due thread sono sincronizzati.
+quindi con la wait il processo viene deallocato e messo nella losta di attesa e la risorsa viene assegnato all'altra. questo altro thread quando accede alla risorsa deve richiamare il metodo notifie che nel momento che viene rilevato dal t1 fa capire che la risorsa è di nuovo libera(quindi risveglia il thread in attesa).
+oltre alla notifie esiste la notifie all che notifica tutti i processi che hanno effettuato la wait sullka risorsa condivisa di risvegliarsi. ma se io ho piu processi in attesa l'assegnamento della risorssa sara casuale(se voglio cercare di gestirlo posso assegnare una certa priorita al thread(grado di importanza)).
+La classe thread presenta delle costanti, MINPRIORITY e mAXPRIORITY quando creo un thread la priorita è a metà di default.
+
+il metodo activeCount() restituisce il numero di thread in esecuzione
+se lo si richiama all'avvio del programma nel main senza nessun ulteriore thread creato, ne ritorna 2, uno è il main ,
+
+il tasto control break richiama il dump che restituisce tipo uan "fotografia" del programma al momento( questo fa capire che quando eseguiamo un programma non viene eseguito solo il main)
+
+demon thread sono thread vincolati strettamente <lla jvm, ovvero se l'istanza termina del'oggetto demon allora anche tutti gli altri terminano
+
+sono creati dal programmatore e non sono vincolati strettamente al programma
+
+getAllSTackTraces() contiene tutti i riferimentiai thread in esecuzione del programma
+
+
+setPriority() serve per settare la priorita
+
+setDeamon() 
+
+Thread.currentThread().wait() non va bene se sto facendo concorrere due thread, perche il thread non puo fermarsi da solo, pero deve essere l'altro a fermarlo.
+
+nessuno ha notificato significa che nessuno ha detto di partire ( a un thread)
+
+quando creo un thread java di default gli assegna un nome
+
+il thread che ad esempio è auto deve estendere la classe Thread(classe di sistema), oltre ad avere i propri attributi deve modificare anche il l'attributo nome, ereditato da Thread .
+
+
+in java è piu complesso gestire le eccezzioni, perche piu thread potrebbero lanciarlla allo stesso tempo quindi si usa a1.setUncaughtEceptionHandler(new  setUncaughtEceptionHandler(crezione oggeto handler/gestore) ) poi compare il suo metodo automaticamente e cosi esso senza try catch potra  gestire le eccezioni da solo
